@@ -4,7 +4,7 @@ Gets a picture and outputs that picture in ASCII art - drawn from ASCII characte
 
  Uses Object Oriented Programming
  
- ################################################################################################################
+ #################################################################################
 
 Implementation details:
 brightnessLevel() - returns array that each value in index i represent the number of brightness of the character
